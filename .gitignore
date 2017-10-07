@@ -1,0 +1,4 @@
+base_checkpoint/*
+train_dir/*
+models1/
+models2/
